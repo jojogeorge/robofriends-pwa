@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CounterButton Component expect CardList compoent to be renedered 1`] = `
+<button
+  id="counter"
+  onClick={[Function]}
+>
+  count:
+  0
+</button>
+`;
